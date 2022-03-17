@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **trancongtuanmanh@gmail.com**
 
-- ⚡ Fun fact **will be fun if I find a mentor for me :D**
+- ⚡ Fun fact **will be happy if I find a mentor for me :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
