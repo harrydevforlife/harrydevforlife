@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tran Cong Tuan Manh</h1>
-<h3 align="center">A child data engineer from Vietnam</h3>
+<h3 align="center">A child data engineer from Ho Chi Minh city</h3>
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
