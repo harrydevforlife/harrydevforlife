@@ -1,4 +1,4 @@
-> More than coding, storytelling.
+
 
   
 ### just a random dev quote
