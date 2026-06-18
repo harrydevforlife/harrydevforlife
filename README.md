@@ -1,4 +1,4 @@
-> Halo! Im a software engineer for data stacks.
+> Halo! Im a software engineer working on data stacks.
 >
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
